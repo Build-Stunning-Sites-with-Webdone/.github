@@ -20,7 +20,7 @@
   </section>
 
   <section>
-    <h2>What is Webdone? (https://www.webd.one/)</h2>
+    <h2>What is Webdone?(https://www.webd.one/)</h2>
     <ul>
       <li>A fast, AI-powered builder for beautiful, SEO-optimized landing pages</li>
       <li>Designed for speed, ease of use, and scalability</li>
