@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Webdone – The AI-powered site builder for lightning-fast, no-code landing pages using React, Next.js, and Tailwind.">
-  
+  <title>Build & Launch Stunning Sites with Webdone – No Code, Just Click</title>
 </head>
 <body>
 
@@ -28,9 +28,9 @@
     </ul>
   </section>
 
- 
+  <section>
     <h2>Key Features of Webdone</h2>
-    
+
     <h3>AI-Powered Page & Theme Generator</h3>
     <ul>
       <li>Describe your product, get a fully styled site</li>
@@ -54,7 +54,7 @@
       <li>Perfect for devs who want to tinker under the hood</li>
       <li>Combine no-code UI with full-code control</li>
     </ul>
- 
+  </section>
 
   <section>
     <h2>Who is Webdone For?</h2>
@@ -69,17 +69,19 @@
   <section>
     <h2>Real Stories, Real Results</h2>
     <blockquote>
-      "We built our MVP, launched in 11 minutes, and got our first subscriber 19 days later." – Hasnain, founder of ModernHouses.co
+      "We built our MVP, launched in 11 minutes, and got our first subscriber 19 days later."  
+      – Hasnain, founder of ModernHouses.co
     </blockquote>
     <ul>
-      <li>Emma Wilson (SaaS Maker): “Faster than any builder I’ve tried.”</li>
-      <li>Priya Patel (UI/UX Designer): “Real-time preview is a lifesaver.”</li>
-      <li>Zane Valor (SaaS Maker): “Best Next.js setup I’ve ever used.”</li>
+      <li><strong>Emma Wilson (SaaS Maker):</strong> “Faster than any builder I’ve tried.”</li>
+      <li><strong>Priya Patel (UI/UX Designer):</strong> “Real-time preview is a lifesaver.”</li>
+      <li><strong>Zane Valor (SaaS Maker):</strong> “Best Next.js setup I’ve ever used.”</li>
     </ul>
   </section>
 
   <section>
     <h2>Why Webdone Stands Out</h2>
+
     <h3>React UI Builder That’s Actually Intuitive</h3>
     <ul>
       <li>Tailored for developers and non-devs alike</li>
@@ -110,7 +112,7 @@
 
   <section>
     <h2>Plans & Pricing Made Simple</h2>
-    <table border="1" cellspacing="0" cellpadding="8">
+    <table border="1">
       <thead>
         <tr>
           <th>Plan</th>
@@ -136,7 +138,7 @@
         </tr>
       </tbody>
     </table>
-    <p>🎉 Use code <strong>"WEBDONE"</strong> to get 20% OFF on all plans!</p>
+    <p>🎉 <strong>Use code "WEBDONE" to get 20% OFF on all plans!</strong></p>
   </section>
 
   <section>
@@ -155,8 +157,8 @@
       <li><a href="#">Webdone Docs</a></li>
       <li><a href="#">Webdone Blog</a></li>
       <li><a href="#">SEO Peak</a></li>
-      <li><a href="#">TailwindCSS</a></li>
-      <li><a href="#">Next.js Landing Page Official Docs</a></li>
+      <li><a href="https://tailwindcss.com">TailwindCSS</a></li>
+      <li><a href="https://nextjs.org/docs">Next.js Landing Page Official Docs</a></li>
     </ul>
   </section>
 
