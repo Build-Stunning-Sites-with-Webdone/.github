@@ -28,7 +28,7 @@
     </ul>
   </section>
 
-  <section>
+ 
     <h2>Key Features of Webdone</h2>
     
     <h3>AI-Powered Page & Theme Generator</h3>
@@ -54,7 +54,7 @@
       <li>Perfect for devs who want to tinker under the hood</li>
       <li>Combine no-code UI with full-code control</li>
     </ul>
-  </section>
+ 
 
   <section>
     <h2>Who is Webdone For?</h2>
